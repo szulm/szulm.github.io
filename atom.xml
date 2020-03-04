@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://szulm.github.io</id>
     <title>柠檬·小明的Blog</title>
-    <updated>2020-03-04T03:34:54.991Z</updated>
+    <updated>2020-03-04T03:39:49.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://szulm.github.io"/>
     <link rel="self" href="https://szulm.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://szulm.github.io/images/avatar.png</logo>
     <icon>https://szulm.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 柠檬·小明的Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[刷新DNS]]></title>
+        <id>https://szulm.github.io/post/shua-xin-dns/</id>
+        <link href="https://szulm.github.io/post/shua-xin-dns/">
+        </link>
+        <updated>2020-03-04T03:33:31.000Z</updated>
+        <content type="html"><![CDATA[<p>ipconfig /flushdns</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://szulm.github.io/post/hello-gridea/</id>
